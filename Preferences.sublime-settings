@@ -1,0 +1,33 @@
+{
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": true,
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"draw_white_space": "all",
+	"extensions":
+	[
+		"md",
+		"mdown",
+		"mdwn",
+		"mmd"
+	],
+	"font_face": "menlo",
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"highlight_line": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"shift_tab_unindent": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_sapce_on_save": true,
+	"theme": "Afterglow-orange.sublime-theme"
+}
